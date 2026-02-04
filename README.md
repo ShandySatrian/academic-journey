@@ -12,6 +12,37 @@ serta portfolio akademik dan teknis.
 - Menjadi referensi pribadi di masa depan
 - Menjadi portfolio teknis untuk keperluan akademik dan karier
 
+## Isi Repository
+Repository ini berisi:
+- Catatan materi perkuliahan
+- Latihan dan praktikum pemrograman
+- Tugas terstruktur
+- Mini project sebagai penerapan konsep
+
+Repository ini **tidak** berisi:
+- Soal UTS/UAS
+- Jawaban ujian
+- File evaluasi resmi dari dosen
+
+## Teknologi yang Digunakan
+Sepanjang perjalanan kuliah, teknologi yang digunakan meliputi:
+- C, C++
+- Python, Java, JavaScript
+- Flutter, Node.js
+- Database (SQL & NoSQL)
+- Machine Learning & TFLite
+
+## Prinsip Penulisan Kode
+Setiap kode dalam repository ini ditulis dengan prinsip:
+- Fokus pada proses belajar
+- Nama file deskriptif sesuai fungsi
+- Kode sederhana dan mudah dipahami
+- Tidak mengejar kesempurnaan, tetapi konsistensi
+
+## Catatan
+Repository ini bersifat publik sebagai sarana pembelajaran terbuka.
+Seluruh isi ditulis berdasarkan pemahaman pribadi dan digunakan untuk tujuan edukasi.
+
 ## Struktur Repository
 Setiap semester disusun dalam folder terpisah:
 - semester-1/
@@ -25,11 +56,11 @@ Setiap semester disusun dalam folder terpisah:
 
 ## Di dalam setiap semester, terdapat folder per mata kuliah dengan struktur umum:
 mata-kuliah/
-├── README.md
-├── notes/
-├── praktikum/
-├── tugas/
-└── mini-project/
+- README.md
+- notes/
+- praktikum/
+- tugas/
+- mini-project/
 
 ## Isi Repository
 Repository ini berisi:
